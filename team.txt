@@ -1,0 +1,362 @@
+Abilene Christian Wildcats	Abilene, Texas	1971	13	210	0	0	2	2	0	0	WAC
+Air Force Falcons	USAF Academy, Colorado	1958	66	785	0	1	0	4	0	0	MWC
+Akron Zips	Akron, Ohio	1902	72	1003	0	9	5	5	0	0	MAC
+Alabama A&M Bulldogs	Normal, Alabama	2000	24	265	0	1	1	1	0	0	SWAC
+Alabama Crimson Tide	Tuscaloosa, Alabama	1913	110	1769	17	12	9	24	0	0	SEC
+Alabama State Hornets	Montgomery, Alabama	1983	41	561	0	4	4	4	0	0	SWAC
+Albany (NY) Great Danes	Albany, New York	2000	24	354	0	2	5	5	0	0	AEC
+Alcorn State Braves	Alcorn State, Mississippi	1978	46	593	0	12	6	6	0	0	SWAC
+American Eagles	Washington, D.C.	1967	57	786	0	7	3	3	0	0	Patriot
+Appalachian State Mountaineers	Boone, North Carolina	1974	50	727	0	10	3	3	0	0	Sun Belt
+Arizona State Sun Devils	Tempe, Arizona	1912	108	1417	7	8	0	17	0	0	Pac-12
+Arizona Wildcats	Tucson, Arizona	1905	116	1886	29	25	9	37	4	1	Pac-12
+Arkansas Razorbacks	Fayetteville, Arkansas	1924	100	1783	18	26	7	35	6	1	SEC
+Arkansas State Red Wolves	State University, Arkansas	1971	53	785	0	7	1	1	0	0	Sun Belt
+Arkansas-Pine Bluff Golden Lions	Pine Bluff, Arkansas	1999	25	220	0	0	1	1	0	0	SWAC
+Army Black Knights	West Point, New York	1903	121	1294	0	0	0	0	0	0	Patriot
+Auburn Tigers	Auburn, Alabama	1906	117	1451	9	5	2	12	1	0	SEC
+Austin Peay Governors	Clarksville, Tennessee	1964	60	859	1	8	5	7	0	0	A-Sun
+Ball State Cardinals	Muncie, Indiana	1972	52	812	1	12	7	7	0	0	MAC
+Baylor Bears	Waco, Texas	1907	117	1455	10	7	0	15	3	1	Big 12
+Bellarmine Knights	Louisville, Kentucky	2021	3	49	0	0	1	0	0	0	A-Sun
+Belmont Bruins	Nashville, Tennessee	2000	24	513	0	14	8	8	0	0	MVC
+Bethune-Cookman Wildcats	Daytona Beach, Florida	1981	42	454	0	2	0	0	0	0	SWAC
+Binghamton Bearcats	Binghamton, New York	2002	22	234	0	1	1	1	0	0	AEC
+Boise State Broncos	Boise, Idaho	1972	52	873	1	7	6	9	0	0	MWC
+Boston College Eagles	Chestnut Hill, Massachusetts	1946	78	1189	8	6	2	18	0	0	ACC
+Boston University Terriers	Boston, Massachusetts	1916	97	1157	0	8	7	7	0	0	Patriot
+Bowling Green State Falcons	Bowling Green, Ohio	1916	108	1446	2	9	0	4	0	0	MAC
+Bradley Braves	Peoria, Illinois	1903	119	1746	12	8	4	9	2	0	MVC
+Brigham Young Cougars	Provo, Utah	1903	121	1916	12	25	3	30	0	0	WCC
+Brown Bears	Providence, Rhode Island	1901	117	1087	0	1	0	2	0	0	Ivy
+Bryant Bulldogs	Smithfield, Rhode Island	2011	13	166	0	1	1	1	0	0	AEC
+Bucknell Bison	Lewisburg, Pennsylvania	1896	128	1489	0	18	8	8	0	0	Patriot
+Buffalo Bulls	Buffalo, New York	1907	54	683	1	5	4	4	0	0	MAC
+Butler Bulldogs	Indianapolis, Indiana	1897	125	1657	8	13	7	16	2	0	Big East
+Cal Poly Mustangs	San Luis Obispo, California	1995	29	322	0	1	1	1	0	0	Big West
+Cal State Bakersfield Roadrunners	Bakersfield, California	2011	13	192	0	1	1	1	0	0	Big West
+Cal State Fullerton Titans	Fullerton, California	1975	49	682	0	2	4	4	0	0	Big West
+Cal State Northridge Matadors	Northridge, California	1991	33	407	0	3	2	2	0	0	Big West
+California Baptist Lancers	Riverside, California	2019	5	85	0	0	0	0	0	0	WAC
+California Golden Bears	Berkeley, California	1908	114	1659	5	14	0	19	3	1	Pac-12
+Campbell Fighting Camels	Buies Creek, North Carolina	1978	46	567	0	2	1	1	0	0	Big South
+Canisius Golden Griffins	Buffalo, New York	1904	119	1347	1	8	1	4	0	0	MAAC
+Central Arkansas Bears	Conway, Arkansas	2011	13	118	0	0	0	0	0	0	A-Sun
+Central Connecticut State Blue Devils	New Britain, Connecticut	1987	37	418	0	3	3	3	0	0	NEC
+Central Florida Knights	Orlando, Florida	1985	39	591	0	1	4	5	0	0	AAC
+Central Michigan Chippewas	Mount Pleasant, Michigan	1974	50	626	0	8	2	4	0	0	MAC
+Charleston Southern Buccaneers	Charleston, South Carolina	1975	49	569	0	4	4	1	0	0	Big South
+Charlotte 49ers	Charlotte, North Carolina	1973	51	831	2	6	5	11	1	0	CUSA
+Chattanooga Mocs	Chattanooga, Tennessee	1978	46	858	1	20	12	12	0	0	Southern
+Chicago State Cougars	Chicago, Illinois	1985	39	291	0	0	1	0	0	0	Ind
+Cincinnati Bearcats	Cincinnati, Ohio	1902	122	1888	25	25	12	33	6	2	AAC
+Clemson Tigers	Clemson, South Carolina	1912	112	1403	6	1	1	13	0	0	ACC
+Cleveland State Vikings	Cleveland, Ohio	1973	51	753	0	6	3	3	0	0	Horizon
+Coastal Carolina Chanticleers	Conway, South Carolina	1987	37	568	0	7	5	4	0	0	Sun Belt
+Colgate Raiders	Hamilton, New York	1901	123	1369	0	8	6	6	0	0	Patriot
+College of Charleston Cougars	Charleston, South Carolina	1992	32	683	2	14	5	6	0	0	CAA
+Colorado Buffaloes	Boulder, Colorado	1902	120	1401	6	19	1	15	2	0	Pac-12
+Colorado State Rams	Fort Collins, Colorado	1902	119	1346	1	6	1	11	0	0	MWC
+Columbia Lions	New York, New York	1901	123	1319	2	13	0	3	0	0	Ivy
+Connecticut Huskies	Storrs, Connecticut	1901	117	1744	18	27	8	35	6	5	Big East
+Coppin State Eagles	Baltimore, Maryland	1986	38	515	0	11	4	4	0	0	MEAC
+Cornell Big Red	Ithaca, New York	1899	125	1301	0	8	0	5	0	0	Ivy
+Creighton Bluejays	Omaha, Nebraska	1912	103	1655	6	16	12	24	0	0	Big East
+Dartmouth Big Green	Hanover, New Hampshire	1900	123	1338	0	12	0	7	2	0	Ivy
+Davidson Wildcats	Davidson, North Carolina	1909	114	1533	6	25	13	15	0	0	A-10
+Dayton Flyers	Dayton, Ohio	1904	118	1734	8	6	2	18	1	0	A-10
+Delaware Fightin' Blue Hens	Newark, Delaware	1906	82	999	0	4	6	6	0	0	CAA
+Delaware State Hornets	Dover, Delaware	1974	50	547	0	3	1	1	0	0	MEAC
+Denver Pioneers	Denver, Colorado	1904	100	976	0	4	0	0	0	0	Summit
+DePaul Blue Demons	Chicago, Illinois	1924	100	1513	12	2	0	22	2	0	Big East
+Detroit Mercy Titans	Detroit, Michigan	1910	114	1464	2	2	3	6	0	0	Horizon
+Drake Bulldogs	Des Moines, Iowa	1907	117	1341	5	9	2	6	1	0	MVC
+Drexel Dragons	Philadelphia, Pennsylvania	1895	53	802	0	7	5	5	0	0	CAA
+Duke Blue Devils	Durham, North Carolina	1906	118	2273	51	23	27	45	17	5	ACC
+Duquesne Dukes	Pittsburgh, Pennsylvania	1914	107	1458	7	2	1	5	1	0	A-10
+East Carolina Pirates	Greenville, North Carolina	1967	57	714	0	0	2	2	0	0	AAC
+East Tennessee State Buccaneers	Johnson City, Tennessee	1959	65	1017	1	11	10	10	0	0	Southern
+Eastern Illinois Panthers	Charleston, Illinois	1982	42	552	0	0	3	2	0	0	OVC
+Eastern Kentucky Colonels	Richmond, Kentucky	1948	73	980	0	8	5	8	0	0	A-Sun
+Eastern Michigan Eagles	Ypsilanti, Michigan	1933	51	699	0	5	4	4	0	0	MAC
+Eastern Washington Eagles	Cheney, Washington	1984	40	529	0	5	3	3	0	0	Big Sky
+Elon Phoenix	Elon, North Carolina	2000	24	306	0	2	0	0	0	0	CAA
+Evansville Purple Aces	Evansville, Indiana	1925	50	736	0	6	4	5	0	0	MVC
+Fairfield Stags	Fairfield, Connecticut	1965	59	817	0	3	3	3	0	0	MAAC
+Fairleigh Dickinson Knights	Teaneck, New Jersey	1968	56	751	0	6	6	7	0	0	NEC
+Florida A&M Rattlers	Tallahassee, Florida	1980	44	494	0	0	4	3	0	0	SWAC
+Florida Atlantic Owls	Boca Raton, Florida	1994	30	364	1	2	2	2	1	0	CUSA
+Florida Gators	Gainesville, Florida	1921	102	1502	15	9	4	23	5	2	SEC
+Florida Gulf Coast Eagles	Fort Myers, Florida	2011	13	238	0	3	3	3	0	0	A-Sun
+Florida International Panthers	Miami, Florida	1988	36	436	0	1	1	1	0	0	CUSA
+Florida State Seminoles	Tallahassee, Florida	1957	67	1172	12	3	2	18	1	0	ACC
+Fresno State Bulldogs	Fresno, California	1956	56	943	1	6	5	6	0	0	MWC
+Furman Paladins	Greenville, South Carolina	1920	102	1333	0	7	7	7	0	0	Southern
+Gardner-Webb Runnin' Bulldogs	Boiling Springs, North Carolina	2003	21	310	0	1	1	1	0	0	Big South
+George Mason Patriots	Fairfax, Virginia	1979	45	728	0	4	4	6	1	0	A-10
+George Washington Colonials	Washington, D.C.	1913	106	1394	3	7	5	11	0	0	A-10
+Georgetown Hoyas	Washington, D.C.	1907	115	1713	20	11	8	31	5	1	Big East
+Georgia Bulldogs	Athens, Georgia	1906	118	1475	5	3	3	12	1	0	SEC
+Georgia Southern Eagles	Statesboro, Georgia	1972	52	777	0	7	3	3	0	0	Sun Belt
+Georgia State Panthers	Atlanta, Georgia	1974	50	656	0	8	6	6	0	0	Sun Belt
+Georgia Tech Yellow Jackets	Atlanta, Georgia	1920	104	1427	8	3	5	17	2	0	ACC
+Gonzaga Bulldogs	Spokane, Washington	1944	72	1426	16	28	21	25	2	0	WCC
+Grambling Tigers	Grambling, Louisiana	1978	46	509	0	4	0	0	0	0	SWAC
+Grand Canyon Antelopes	Phoenix, Arizona	2014	10	200	0	1	2	2	0	0	WAC
+Green Bay Phoenix	Green Bay, Wisconsin	1982	42	672	0	4	4	5	0	0	Horizon
+Hampton Pirates	Hampton, Virginia	1996	28	434	0	4	6	6	0	0	CAA
+Hartford Hawks	West Hartford, Connecticut	1985	39	486	0	0	1	1	0	0	Ind
+Harvard Crimson	Boston, Massachusetts	1901	112	1201	0	7	0	5	0	0	Ivy
+Hawaii Rainbow Warriors	Honolulu, Hawaii	1971	53	825	1	3	4	5	0	0	Big West
+High Point Panthers	High Point, North Carolina	2000	24	341	0	4	0	0	0	0	Big South
+Hofstra Pride	Hempstead, New York	1943	58	886	0	10	6	4	0	0	CAA
+Holy Cross Crusaders	Worcester, Massachusetts	1901	103	1439	6	6	7	13	2	1	Patriot
+Houston Christian Huskies	Houston, Texas	1974	29	334	0	2	1	1	0	0	Southland
+Houston Cougars	Houston, Texas	1951	73	1340	13	8	8	24	6	0	AAC
+Howard Bison	Washington, D.C.	1974	50	562	0	5	4	3	0	0	MEAC
+Idaho State Bengals	Pocatello, Idaho	1959	65	784	0	4	2	5	0	0	Big Sky
+Idaho Vandals	Moscow, Idaho	1906	118	1372	1	7	4	4	0	0	Big Sky
+Illinois Fighting Illini	Champaign, Illinois	1906	118	1876	29	18	3	33	5	0	Big Ten
+Illinois State Redbirds	Normal, Illinois	1899	64	970	0	6	4	6	0	0	MVC
+Illinois-Chicago Flames	Chicago, Illinois	1982	42	607	0	2	2	3	0	0	MVC
+Incarnate Word Cardinals	San Antonio, Texas	2014	10	117	0	0	0	0	0	0	Southland
+Indiana Hoosiers	Bloomington, Indiana	1901	123	1909	29	22	0	41	8	5	Big Ten
+Indiana State Sycamores	Terre Haute, Indiana	1900	101	1183	1	2	3	4	1	0	MVC
+Iona Gaels	New Rochelle, New York	1954	70	1099	1	13	14	16	0	0	MAAC
+Iowa Hawkeyes	Iowa City, Iowa	1893	126	1740	21	8	3	29	3	0	Big Ten
+Iowa State Cyclones	Ames, Iowa	1908	116	1429	10	6	6	22	1	0	Big 12
+IUPUI Jaguars	Indianapolis, Indiana	1999	25	334	0	1	1	1	0	0	Horizon
+Jackson State Tigers	Jackson, Mississippi	1978	46	646	0	7	4	3	0	0	SWAC
+Jacksonville Dolphins	Jacksonville, Florida	1967	57	809	2	2	2	5	1	0	A-Sun
+Jacksonville State Gamecocks	Jacksonville, Alabama	1996	28	373	0	1	1	2	0	0	A-Sun
+James Madison Dukes	Harrisonburg, Virginia	1977	47	715	0	8	3	5	0	0	Sun Belt
+Kansas City Roos	Kansas City, Missouri	1990	34	432	0	0	0	0	0	0	Summit
+Kansas Jayhawks	Lawrence, Kansas	1899	125	2385	48	64	16	51	16	4	Big 12
+Kansas State Wildcats	Manhattan, Kansas	1906	118	1717	17	19	2	32	4	0	Big 12
+Kennesaw State Owls	Kennesaw, Georgia	2010	14	129	0	1	1	1	0	0	A-Sun
+Kent State Golden Flashes	Kent, Ohio	1914	104	1270	0	9	7	7	0	0	MAC
+Kentucky Wildcats	Lexington, Kentucky	1903	120	2377	54	56	33	61	17	8	SEC
+La Salle Explorers	Philadelphia, Pennsylvania	1932	92	1423	6	9	8	12	2	1	A-10
+Lafayette Leopards	Easton, Pennsylvania	1901	113	1382	0	18	3	4	0	0	Patriot
+Lamar Cardinals	Beaumont, Texas	1970	54	783	0	9	4	6	0	0	Southland
+Lehigh Mountain Hawks	Bethlehem, Pennsylvania	1902	122	1151	0	4	5	5	0	0	Patriot
+Liberty Flames	Lynchburg, Virginia	1989	35	555	0	7	6	5	0	0	A-Sun
+Lindenwood Lions	St. Charles, Missouri	2023	1	11	0	0	0	0	0	0	OVC
+Lipscomb Bisons	Nashville, Tennessee	2004	20	331	0	3	1	1	0	0	A-Sun
+Little Rock Trojans	Little Rock, Arkansas	1979	45	727	0	13	5	5	0	0	OVC
+Long Beach State Beach	Long Beach, California	1970	54	869	5	15	5	9	0	0	Big West
+Long Island University Sharks	Brooklyn, New York	1929	78	1155	1	9	6	7	0	0	NEC
+Longwood Lancers	Farmville, Virginia	2008	16	198	0	1	1	1	0	0	Big South
+Louisiana Ragin' Cajuns	Lafayette, Louisiana	1972	52	884	2	10	8	11	0	0	Sun Belt
+Louisiana State Fighting Tigers	Baton Rouge, Louisiana	1909	115	1638	13	12	1	24	4	0	SEC
+Louisiana Tech Bulldogs	Ruston, Louisiana	1974	50	880	1	11	6	5	0	0	CUSA
+Louisiana-Monroe Warhawks	Monroe, Louisiana	1974	50	753	0	10	8	7	0	0	Sun Belt
+Louisville Cardinals	Louisville, Kentucky	1912	109	1899	35	23	17	43	10	3	ACC
+Loyola (IL) Ramblers	Chicago, Illinois	1921	102	1405	6	7	4	8	2	1	A-10
+Loyola (MD) Greyhounds	Baltimore, Maryland	1908	79	841	0	0	2	2	0	0	Patriot
+Loyola Marymount Lions	Los Angeles, California	1943	76	921	2	3	2	5	0	0	WCC
+Maine Black Bears	Orono, Maine	1904	79	829	0	0	0	0	0	0	AEC
+Manhattan Jaspers	Riverdale, New York	1905	117	1421	0	13	5	8	0	0	MAAC
+Marist Red Foxes	Poughkeepsie, New York	1982	42	541	0	5	2	2	0	0	MAAC
+Marquette Golden Eagles	Milwaukee, Wisconsin	1917	106	1712	23	4	2	35	3	1	Big East
+Marshall Thundering Herd	Huntington, West Virginia	1919	99	1475	1	6	4	6	0	0	Sun Belt
+Maryland Terrapins	College Park, Maryland	1924	100	1641	24	7	4	30	2	1	Big Ten
+Maryland-Baltimore County Retrievers	Baltimore, Maryland	1987	37	454	0	3	2	2	0	0	AEC
+Maryland-Eastern Shore Hawks	Princess Anne, Maryland	1974	43	368	0	1	1	0	0	0	MEAC
+Massachusetts Minutemen	Amherst, Massachusetts	1926	64	997	5	15	5	9	1	0	A-10
+Massachusetts-Lowell River Hawks	Lowell, Massachusetts	1906	11	152	0	0	0	0	0	0	AEC
+McNeese State Cowboys	Lake Charles, Louisiana	1974	50	679	0	6	2	2	0	0	Southland
+Memphis Tigers	Memphis, Tennessee	1956	68	1387	17	18	12	27	3	0	AAC
+Mercer Bears	Macon, Georgia	1974	50	711	0	3	3	3	0	0	Southern
+Merrimack Warriors	North Andover, Massachusetts	2020	4	61	0	2	1	0	0	0	NEC
+Miami (FL) Hurricanes	Coral Gables, Florida	1949	60	1004	8	3	1	12	1	0	ACC
+Miami (OH) RedHawks	Oxford, Ohio	1906	118	1439	1	18	4	17	0	0	MAC
+Michigan State Spartans	East Lansing, Michigan	1899	124	1798	25	16	6	36	10	2	Big Ten
+Michigan Wolverines	Ann Arbor, Michigan	1918	106	1694	23	15	3	31	8	1	Big Ten
+Middle Tennessee Blue Raiders	Murfreesboro, Tennessee	1959	65	1026	0	12	7	9	0	0	CUSA
+Milwaukee Panthers	Milwaukee, Wisconsin	1974	40	576	0	4	4	4	0	0	Horizon
+Minnesota Golden Gophers	Minneapolis, Minnesota	1896	128	1699	10	9	0	14	1	0	Big Ten
+Mississippi Rebels	University, Mississippi	1909	113	1369	2	3	2	9	0	0	SEC
+Mississippi State Bulldogs	Mississippi State, Mississippi	1909	111	1502	11	12	5	12	1	0	SEC
+Mississippi Valley State Delta Devils	Itta Bena, Mississippi	1980	44	487	0	7	5	5	0	0	SWAC
+Missouri State Bears	Springfield, Missouri	1983	41	761	0	5	3	6	0	0	MVC
+Missouri Tigers	Columbia, Missouri	1907	117	1708	15	15	8	29	0	0	SEC
+Monmouth Hawks	West Long Branch, New Jersey	1984	40	570	0	5	4	4	0	0	CAA
+Montana Grizzlies	Missoula, Montana	1912	108	1505	0	13	11	12	0	0	Big Sky
+Montana State Bobcats	Bozeman, Montana	1902	112	1508	0	11	4	4	0	0	Big Sky
+Morehead State Eagles	Morehead, Kentucky	1956	68	964	0	10	5	8	0	0	OVC
+Morgan State Bears	Baltimore, Maryland	1985	39	434	0	3	2	2	0	0	MEAC
+Mount St. Mary's Mountaineers	Emmitsburg, Maryland	1989	35	453	0	2	6	6	0	0	MAAC
+Murray State Racers	Murray, Kentucky	1954	70	1281	3	30	17	18	0	0	MVC
+Navy Midshipmen	Annapolis, Maryland	1908	116	1463	1	9	6	11	0	0	Patriot
+NC State Wolfpack	Raleigh, North Carolina	1913	111	1805	17	13	17	28	3	2	ACC
+Nebraska Cornhuskers	Lincoln, Nebraska	1897	127	1555	2	7	1	7	0	0	Big Ten
+Nevada Wolf Pack	Reno, Nevada	1913	68	1024	4	12	5	10	0	0	MWC
+Nevada-Las Vegas Rebels	Las Vegas, Nevada	1970	54	1166	16	13	11	20	4	1	MWC
+New Hampshire Wildcats	Durham, New Hampshire	1927	71	644	0	1	0	0	0	0	AEC
+New Mexico Lobos	Albuquerque, New Mexico	1900	117	1557	11	12	6	15	0	0	MWC
+New Mexico State Aggies	Las Cruces, New Mexico	1905	113	1612	5	21	13	26	1	0	WAC
+New Orleans Privateers	New Orleans, Louisiana	1976	46	727	2	8	4	5	0	0	Southland
+Niagara Purple Eagles	Niagara University, New York	1906	117	1522	2	10	2	3	0	0	MAAC
+Nicholls State Colonels	Thibodaux, Louisiana	1981	43	523	0	5	2	2	0	0	Southland
+NJIT Highlanders	Newark, New Jersey	2010	14	191	0	1	0	0	0	0	AEC
+Norfolk State Spartans	Norfolk, Virginia	1998	26	405	0	4	3	3	0	0	MEAC
+North Alabama Lions	Florence, Alabama	2019	5	63	0	0	0	0	0	0	A-Sun
+North Carolina A&T Aggies	Greensboro, North Carolina	1974	50	709	0	12	14	10	0	0	CAA
+North Carolina Central Eagles	Durham, North Carolina	2011	13	239	0	4	4	4	0	0	MEAC
+North Carolina Tar Heels	Chapel Hill, North Carolina	1911	113	2343	51	39	26	52	21	6	ACC
+North Dakota Fighting Hawks	Grand Forks, North Dakota	1905	30	333	0	1	3	1	0	0	Summit
+North Dakota State Bison	Fargo, North Dakota	1898	44	588	0	4	5	4	0	0	Summit
+North Florida Ospreys	Jacksonville, Florida	2010	14	217	0	3	1	1	0	0	A-Sun
+North Texas Mean Green	Denton, Texas	1922	68	875	0	5	4	4	0	0	CUSA
+Northeastern Huskies	Boston, Massachusetts	1938	60	852	0	14	9	9	0	0	CAA
+Northern Arizona Lumberjacks	Flagstaff, Arizona	1919	84	906	0	6	2	2	0	0	Big Sky
+Northern Colorado Bears	Greeley, Colorado	1911	44	458	0	3	1	1	0	0	Big Sky
+Northern Illinois Huskies	De Kalb, Illinois	1927	57	712	0	4	2	3	0	0	MAC
+Northern Iowa Panthers	Cedar Falls, Iowa	1981	43	690	1	4	6	8	0	0	MVC
+Northern Kentucky Norse	Highland Heights, Kentucky	2013	11	193	0	2	4	3	0	0	Horizon
+Northwestern State Demons	Natchitoches, Louisiana	1977	47	606	0	3	3	3	0	0	Southland
+Northwestern Wildcats	Evanston, Illinois	1905	118	1142	0	2	0	2	0	0	Big Ten
+Notre Dame Fighting Irish	Notre Dame, Indiana	1897	119	1948	25	1	1	37	1	0	ACC
+Oakland Golden Grizzlies	Rochester, Michigan	2000	24	413	0	4	3	3	0	0	Horizon
+Ohio Bobcats	Athens, Ohio	1908	116	1608	0	10	7	14	0	0	MAC
+Ohio State Buckeyes	Columbus, Ohio	1899	124	1846	24	22	5	35	11	1	Big Ten
+Oklahoma Sooners	Norman, Oklahoma	1908	116	1754	19	14	7	33	5	0	Big 12
+Oklahoma State Cowboys	Stillwater, Oklahoma	1908	114	1734	19	19	4	29	6	2	Big 12
+Old Dominion Monarchs	Norfolk, Virginia	1977	47	888	0	9	7	12	0	0	Sun Belt
+Omaha Mavericks	Omaha, Nebraska	2013	11	141	0	0	0	0	0	0	Summit
+Oral Roberts Golden Eagles	Tulsa, Oklahoma	1972	48	820	2	8	7	7	0	0	Summit
+Oregon Ducks	Eugene, Oregon	1903	118	1753	6	8	5	17	2	1	Pac-12
+Oregon State Beavers	Corvallis, Oregon	1902	122	1812	8	12	1	18	2	0	Pac-12
+Pacific Tigers	Stockton, California	1938	73	1039	1	10	5	9	0	0	WCC
+Penn State Nittany Lions	University Park, Pennsylvania	1897	127	1545	2	1	1	10	1	0	Big Ten
+Pennsylvania Quakers	Philadelphia, Pennsylvania	1897	122	1830	6	38	1	24	1	0	Ivy
+Pepperdine Waves	Malibu, California	1944	69	975	1	12	3	13	0	0	WCC
+Pittsburgh Panthers	Pittsburgh, Pennsylvania	1906	116	1676	13	11	4	27	1	0	ACC
+Portland Pilots	Portland, Oregon	1954	70	834	0	0	1	2	0	0	WCC
+Portland State Vikings	Portland, Oregon	1973	34	477	0	2	2	2	0	0	Big Sky
+Prairie View Panthers	Prairie View, Texas	1981	43	385	0	4	2	2	0	0	SWAC
+Presbyterian Blue Hose	Clinton, South Carolina	2011	13	132	0	0	0	0	0	0	Big South
+Princeton Tigers	Princeton, New Jersey	1901	123	1807	4	32	2	26	1	0	Ivy
+Providence Friars	Providence, Rhode Island	1929	74	1315	7	1	2	22	2	0	Big East
+Purdue Boilermakers	West Lafayette, Indiana	1897	125	1913	25	25	2	34	2	0	Big Ten
+Purdue Fort Wayne Mastodons	Fort Wayne, Indiana	2003	21	309	0	2	0	0	0	0	Horizon
+Queens (NC) Royals	Charlotte, North Carolina	2023	1	18	0	0	0	0	0	0	A-Sun
+Quinnipiac Bobcats	Hamden, Connecticut	1999	25	357	0	1	0	0	0	0	MAAC
+Radford Highlanders	Radford, Virginia	1985	39	613	0	6	3	3	0	0	Big South
+Rhode Island Rams	Kingston, Rhode Island	1904	117	1569	0	15	2	10	0	0	A-10
+Rice Owls	Houston, Texas	1915	109	1178	0	10	0	4	0	0	CUSA
+Richmond Spiders	Richmond, Virginia	1913	111	1450	1	6	7	10	0	0	A-10
+Rider Broncs	Lawrenceville, New Jersey	1929	60	891	0	12	3	3	0	0	MAAC
+Robert Morris Colonials	Moon Township, Pennsylvania	1977	47	677	0	11	9	8	0	0	Horizon
+Rutgers Scarlet Knights	New Brunswick, New Jersey	1914	109	1313	2	9	2	8	1	0	Big Ten
+Sacramento State Hornets	Sacramento, California	1992	32	292	0	0	0	0	0	0	Big Sky
+Sacred Heart Pioneers	Fairfield, Connecticut	2000	24	279	0	0	0	0	0	0	NEC
+Saint Francis (PA) Red Flash	Loretto, Pennsylvania	1956	68	828	0	2	1	1	0	0	NEC
+Saint Joseph's Hawks	Philadelphia, Pennsylvania	1910	114	1684	6	20	6	21	1	0	A-10
+Saint Louis Billikens	St. Louis, Missouri	1916	107	1512	10	7	3	10	0	0	A-10
+Saint Mary's (CA) Gaels	Moraga, California	1910	114	1434	6	8	4	12	0	0	WCC
+Saint Peter's Peacocks	Jersey City, New Jersey	1966	58	830	0	6	4	4	0	0	MAAC
+Sam Houston State Bearkats	Huntsville, Texas	1987	37	595	0	6	2	2	0	0	WAC
+Samford Bulldogs	Birmingham, Alabama	1973	51	651	0	4	2	2	0	0	Southern
+San Diego State Aztecs	San Diego, California	1971	53	905	6	11	9	15	1	0	MWC
+San Diego Toreros	San Diego, California	1980	44	629	0	2	2	4	0	0	WCC
+San Francisco Dons	San Francisco, California	1924	96	1463	9	15	1	17	3	2	WCC
+San Jose State Spartans	San Jose, California	1938	73	795	0	1	2	2	0	0	MWC
+Santa Clara Broncos	Santa Clara, California	1909	114	1565	2	11	2	11	1	0	WCC
+Seattle Redhawks	Seattle, Washington	1953	41	681	5	1	0	11	1	0	WAC
+Seton Hall Pirates	South Orange, New Jersey	1909	110	1587	8	4	3	14	1	0	Big East
+Siena Saints	Loudonville, New York	1939	65	982	1	11	6	6	0	0	MAAC
+South Alabama Jaguars	Mobile, Alabama	1972	52	864	0	12	5	8	0	0	Sun Belt
+South Carolina Gamecocks	Columbia, South Carolina	1909	115	1479	8	7	2	9	1	0	SEC
+South Carolina State Bulldogs	Orangeburg, South Carolina	1972	52	719	0	8	5	5	0	0	MEAC
+South Carolina Upstate Spartans	Spartanburg, South Carolina	2011	13	174	0	0	0	0	0	0	Big South
+South Dakota Coyotes	Vermillion, South Dakota	2011	13	207	0	1	0	0	0	0	Summit
+South Dakota State Jackrabbits	Brookings, South Dakota	2009	15	324	0	8	6	6	0	0	Summit
+South Florida Bulls	Tampa, Florida	1974	50	668	0	1	1	3	0	0	AAC
+Southeast Missouri State Redhawks	Cape Girardeau, Missouri	1992	32	398	0	1	2	2	0	0	OVC
+Southeastern Louisiana Lions	Hammond, Louisiana	1981	42	535	0	5	1	1	0	0	Southland
+Southern Jaguars	Baton Rouge, Louisiana	1978	46	706	0	8	9	9	0	0	SWAC
+Southern California Trojans	Los Angeles, California	1907	117	1714	11	7	1	21	2	0	Pac-12
+Southern Illinois Salukis	Carbondale, Illinois	1968	56	929	1	9	5	10	0	0	MVC
+Southern Illinois-Edwardsville Cougars	Edwardsville, Illinois	2011	13	128	0	0	0	0	0	0	OVC
+Southern Indiana Screaming Eagles	Evansville, Indiana	2023	1	16	0	0	0	0	0	0	OVC
+Southern Methodist Mustangs	Dallas, Texas	1917	107	1410	5	15	3	12	1	0	AAC
+Southern Mississippi Golden Eagles	Hattiesburg, Mississippi	1973	51	773	1	3	0	3	0	0	Sun Belt
+Southern Utah Thunderbirds	Cedar City, Utah	1989	35	465	0	3	3	1	0	0	WAC
+St. Bonaventure Bonnies	St. Bonaventure, New York	1920	103	1434	6	8	2	8	1	0	A-10
+St. Francis (NY) Terriers	Brooklyn Heights, New York	1902	104	1273	0	6	0	0	0	0	NEC
+St. John's (NY) Red Storm	Queens, New York	1908	116	1968	15	14	3	30	2	0	Big East
+St. Thomas Tommies	St. Paul, Minnesota	2022	2	29	0	0	0	0	0	0	Summit
+Stanford Cardinal	Stanford, California	1914	108	1593	10	11	1	17	2	1	Pac-12
+Stephen F. Austin Lumberjacks	Nacogdoches, Texas	1987	37	634	0	10	5	5	0	0	WAC
+Stetson Hatters	DeLand, Florida	1972	52	677	0	0	0	0	0	0	A-Sun
+Stonehill Skyhawks	Easton, Massachusetts	2023	1	14	0	0	0	0	0	0	NEC
+Stony Brook Seawolves	Stony Brook, New York	2000	24	369	0	4	1	1	0	0	CAA
+Syracuse Orange	Syracuse, New York	1901	122	2074	30	10	5	41	6	1	ACC
+Tarleton State Texans	Stephenville, Texas	2021	3	41	0	0	0	0	0	0	WAC
+TCU Horned Frogs	Fort Worth, Texas	1914	110	1294	4	11	0	10	0	0	Big 12
+Temple Owls	Philadelphia, Pennsylvania	1895	127	1978	9	20	10	33	2	0	AAC
+Tennessee Volunteers	Knoxville, Tennessee	1909	114	1743	15	13	5	25	0	0	SEC
+Tennessee State Tigers	Nashville, Tennessee	1978	46	565	0	2	2	2	0	0	OVC
+Tennessee Tech Golden Eagles	Cookeville, Tennessee	1944	69	917	0	7	1	2	0	0	OVC
+Tennessee-Martin Skyhawks	Martin, Tennessee	1993	31	349	0	3	0	0	0	0	OVC
+Texas Longhorns	Austin, Texas	1906	117	1878	14	25	4	37	3	0	Big 12
+Texas A&M Aggies	College Station, Texas	1913	111	1500	5	12	2	15	0	0	SEC
+Texas A&M-Commerce Lions	Commerce, Texas	2023	1	13	0	0	0	0	0	0	Southland
+Texas A&M-Corpus Christi Islanders	Corpus Christi, Texas	2003	21	339	0	2	3	3	0	0	Southland
+Texas Southern Tigers	Houston, Texas	1978	46	690	0	12	11	11	0	0	SWAC
+Texas State Bobcats	San Marcos, Texas	1985	39	541	0	5	2	2	0	0	Sun Belt
+Texas Tech Red Raiders	Lubbock, Texas	1926	95	1453	8	13	5	19	1	0	Big 12
+Texas-Rio Grande Valley Vaqueros	Edinburg, Texas	1969	55	665	0	0	0	0	0	0	WAC
+The Citadel Bulldogs	Charleston, South Carolina	1913	111	1039	0	0	0	0	0	0	Southern
+Toledo Rockets	Toledo, Ohio	1916	108	1545	2	15	1	4	0	0	MAC
+Towson Tigers	Towson, Maryland	1980	44	565	0	5	3	2	0	0	CAA
+Troy Trojans	Troy, Alabama	1994	30	431	0	6	2	2	0	0	Sun Belt
+Tulane Green Wave	New Orleans, Louisiana	1906	113	1275	1	6	0	3	0	0	AAC
+Tulsa Golden Hurricane	Tulsa, Oklahoma	1914	110	1498	5	11	6	16	0	0	AAC
+UAB Blazers	Birmingham, Alabama	1980	44	898	2	7	6	16	0	0	CUSA
+UC Davis Aggies	Davis, California	2008	16	221	0	2	1	1	0	0	Big West
+UC Irvine Anteaters	Irvine, California	1978	46	703	0	8	2	2	0	0	Big West
+UC Riverside Highlanders	Riverside, California	2002	22	250	0	0	0	0	0	0	Big West
+UC San Diego Tritons	La Jolla, California	2021	3	30	0	0	0	0	0	0	Big West
+UC Santa Barbara Gauchos	Santa Barbara, California	1964	60	927	0	6	5	7	0	0	Big West
+UCLA Bruins	Los Angeles, California	1920	104	1989	43	32	4	52	19	11	Pac-12
+UNC Asheville Bulldogs	Asheville, North Carolina	1987	37	542	0	8	6	5	0	0	Big South
+UNC Greensboro Spartans	Greensboro, North Carolina	1992	32	482	0	7	4	4	0	0	Southern
+UNC Wilmington Seahawks	Wilmington, North Carolina	1977	47	730	0	9	6	6	0	0	CAA
+UT Arlington Mavericks	Arlington, Texas	1969	55	725	0	3	1	1	0	0	WAC
+Utah Utes	Salt Lake City, Utah	1909	115	1875	21	30	5	29	4	1	Pac-12
+Utah State Aggies	Logan, Utah	1904	118	1692	5	16	10	23	0	0	MWC
+Utah Tech Trailblazers	St. George, Utah	2021	3	35	0	0	0	0	0	0	WAC
+Utah Valley Wolverines	Orem, Utah	2010	14	243	0	5	0	0	0	0	WAC
+UTEP Miners	El Paso, Texas	1923	95	1398	4	11	5	17	1	1	CUSA
+UTSA Roadrunners	San Antonio, Texas	1982	42	611	0	3	4	4	0	0	CUSA
+Valparaiso Beacons	Valparaiso, Indiana	1918	88	1183	0	14	10	9	0	0	MVC
+Vanderbilt Commodores	Nashville, Tennessee	1901	121	1667	11	3	3	15	0	0	SEC
+Vermont Catamounts	Burlington, Vermont	1921	68	1011	0	14	9	9	0	0	AEC
+Villanova Wildcats	Villanova, Pennsylvania	1921	103	1868	26	14	8	41	7	3	Big East
+Virginia Cavaliers	Charlottesville, Virginia	1906	118	1719	16	12	3	25	3	1	ACC
+Virginia Commonwealth Rams	Richmond, Virginia	1974	50	1004	3	11	10	19	1	0	A-10
+Virginia Military Institute Keydets	Lexington, Virginia	1909	115	942	1	2	3	3	0	0	Southern
+Virginia Tech Hokies	Blacksburg, Virginia	1909	115	1537	3	2	2	13	0	0	ACC
+Wagner Seahawks	Staten Island, New York	1966	51	714	0	4	1	1	0	0	NEC
+Wake Forest Demon Deacons	Winston-Salem, North Carolina	1906	117	1600	17	4	5	23	1	0	ACC
+Washington Huskies	Seattle, Washington	1896	122	1850	8	12	3	17	1	0	Pac-12
+Washington State Cougars	Pullman, Washington	1902	122	1662	3	2	0	6	1	0	Pac-12
+Weber State Wildcats	Ogden, Utah	1964	60	1107	1	22	10	16	0	0	Big Sky
+West Virginia Mountaineers	Morgantown, West Virginia	1904	114	1846	19	16	13	31	2	0	Big 12
+Western Carolina Catamounts	Cullowhee, North Carolina	1977	47	609	0	3	1	1	0	0	Southern
+Western Illinois Leathernecks	Macomb, Illinois	1982	42	498	0	2	1	0	0	0	Summit
+Western Kentucky Hilltoppers	Bowling Green, Kentucky	1922	102	1869	11	29	19	23	1	0	CUSA
+Western Michigan Broncos	Kalamazoo, Michigan	1914	110	1368	1	11	2	4	0	0	MAC
+Wichita State Shockers	Wichita, Kansas	1906	116	1657	8	12	4	16	2	0	AAC
+William & Mary Tribe	Williamsburg, Virginia	1906	118	1279	0	3	0	0	0	0	CAA
+Winthrop Eagles	Rock Hill, South Carolina	1987	37	620	1	12	13	11	0	0	Big South
+Wisconsin Badgers	Madison, Wisconsin	1899	125	1698	18	20	3	26	4	1	Big Ten
+Wofford Terriers	Spartanburg, South Carolina	1996	28	437	1	4	5	5	0	0	Southern
+Wright State Raiders	Dayton, Ohio	1988	36	613	0	4	4	4	0	0	Horizon
+Wyoming Cowboys	Laramie, Wyoming	1905	118	1594	4	21	3	16	1	1	MWC
+Xavier Musketeers	Cincinnati, Ohio	1920	102	1595	13	18	9	29	0	0	Big East
+Yale Bulldogs	New Haven, Connecticut	1896	128	1543	1	16	2	6	0	0	Ivy
+Youngstown State Penguins	Youngstown, Ohio	1948	43	508	0	1	0	0	0	0	Horizon
